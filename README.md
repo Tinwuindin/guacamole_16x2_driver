@@ -1,5 +1,6 @@
-# guacamole_16x2_driver
+# Guacamole_16x2_driver
 A driver for 16x2 display for PIC16F887
+I use this driver on tetris port (see in my git too)
 
 * 15 fps default config for the generation and update of the screen characters
 * Select a position in the screen and print a string of text
